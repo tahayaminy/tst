@@ -7,7 +7,7 @@
 4. [x] branch
 5. [x] version
 6. [x] push
-7. [ ] pull
+7. [x] pull
 8. [ ] fetch
 9. [ ] clone
 10. [ ] merge conflict
