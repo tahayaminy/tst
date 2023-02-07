@@ -1,15 +1,15 @@
 # This is test repository for git course
 ###  lessons
 
-[x] intro
-[x] install
-[x] commit
-[x] branch
-[x] version
-[x] push
-[ ] pull
-[ ] fetch
-[ ] clone
-[ ] merge conflict
-[ ] reset
-[ ] learn more about checkout & diff
+1. [x] intro
+2. [x] install
+3. [x] commit
+4. [x] branch
+5. [x] version
+6. [x] push
+7. [ ] pull
+8. [ ] fetch
+9. [ ] clone
+10. [ ] merge conflict
+11. [ ] reset
+12. [ ] learn more about checkout & diff
